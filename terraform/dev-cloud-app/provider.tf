@@ -4,3 +4,8 @@ provider "aws" {
   shared_config_files      = ["~/.aws/config"]
   profile                  = "leogomez"
 }
+
+provider "kubernetes" {
+  config_path = "~/.kube/config"
+  config_context = "leogomez"
+}
