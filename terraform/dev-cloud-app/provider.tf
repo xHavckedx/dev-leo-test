@@ -7,5 +7,5 @@ provider "aws" {
 
 provider "kubernetes" {
   config_path = "~/.kube/config"
-  config_context = "leogomez"
+  config_context = "dev-cloud-apps-leo"
 }
