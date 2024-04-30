@@ -6,4 +6,4 @@ flux bootstrap github \
   --owner=xhavckedx \
   --repository=dev-leo-test \
   --branch=main \
-  --path=./cluster/dev-cloud-app \
+  --path=./cluster/dev-cloud-app/inf \
