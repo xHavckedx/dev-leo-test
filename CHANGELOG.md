@@ -2,6 +2,16 @@
 ## [Unreleased]
 
 
+<a name="v1.1.0"></a>
+## [v1.1.0] - 2024-05-01
+### Feat
+- **readme.md:** Adding new readme file to the repo
+- **release.sh:** Adding new automatic release for jenkins
+
+### Fix
+- **releases.sh:** bad formating
+
+
 <a name="v1.0.1"></a>
 ## [v1.0.1] - 2024-04-30
 ### Feat
@@ -28,5 +38,6 @@
 - dev-cloud-apps mv
 
 
-[Unreleased]: https://github.com/xHavckedx/dev-leo-test/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/xHavckedx/dev-leo-test/compare/v1.1.0...HEAD
+[v1.1.0]: https://github.com/xHavckedx/dev-leo-test/compare/v1.0.1...v1.1.0
 [v1.0.1]: https://github.com/xHavckedx/dev-leo-test/compare/v1.0.0...v1.0.1
